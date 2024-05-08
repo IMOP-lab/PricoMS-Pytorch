@@ -11,8 +11,6 @@ from torchvision import models
 import torch.nn as nn
 from Model.mae2 import mae_vit_base_patch16 
 from Model.pvt2 import  pvt_tiny
-# from resnet import resnet34
-# import resnet
 from torch.nn import functional as F
 import torchsummary
 from torch.nn import init
