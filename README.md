@@ -46,7 +46,7 @@ We propose the HCS Module , which enhances feature information by refining laten
   <img src="https://github.com/IMOP-lab/PricoMS-Pytorch/blob/main/figures/AMF.png">
 </div>
 <p align=center>
-  Figure 3: Structure of the AMF module.
+  Figure 4: Structure of the AMF module.
 </p>
 
 We propose the AMF-CSE Module to tackle decoders’ inability to accurately recover detailed information and the issue of using features in isolation. This module includes two units: adaptive morphological fusion for global multiscale feature fusion, and contextual space encoding for organizing image context sequentially
@@ -69,7 +69,7 @@ We provide GitHub links pointing to the PyTorch implementation code for all netw
   <img src="https://github.com/IMOP-lab/PricoMS-Pytorch/blob/main/figures/bae.jpg">
 </div>
 <p align=center>
-  Figure 4: Comparison experiments between our method and 13 previous segmentation methods on the IVUS dataset.
+  Figure 5: Comparison experiments between our method and 13 previous segmentation methods on the IVUS dataset.
 </p>
 
 
