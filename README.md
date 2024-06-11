@@ -16,3 +16,13 @@ Hangzhou Dianzi University IMOP-lab
 We propose PricoMS,  a framework that leverages prior-coordinated multiscale synthesis approaches for the segmentation of cerebral ischemia preventive vessels in IVUS images amidst the challenge of label scarcity. PricoMS achieves state-of-the-art performance over 13 previous methods on the IVUS datasets.
 
 We will first introduce our method and principles, then introduce the experimental environment and provide Github links to previous methods we have compared. Finally, we will present the experimental results.
+
+## Methods
+### PCP Module
+
+<div align=center>
+  <img src="https://github.com/IMOP-lab/PricoMS-Pytorch/blob/main/figures/prior.png">
+</div>
+<p align=center>
+  Figure 2: Structure of the PCP module.
+</p>
