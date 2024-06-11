@@ -66,7 +66,7 @@ We provide GitHub links pointing to the PyTorch implementation code for all netw
 ### Compare with others on the IVUS dataset
 
 <div align=center>
-  <img src="https://github.com/IMOP-lab/PricoMS-Pytorch/blob/main/figures/bae.jpg">
+  <img src="https://github.com/IMOP-lab/PricoMS-Pytorch/blob/main/figures/base.png">
 </div>
 <p align=center>
   Figure 5: Comparison experiments between our method and 13 previous segmentation methods on the IVUS dataset.
