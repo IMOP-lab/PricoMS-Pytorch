@@ -79,7 +79,14 @@ We provide GitHub links pointing to the PyTorch implementation code for all netw
   Figure 7: The visual results of our method compared to the existing 13 segmentation methods on the IVUS dataset. (a) U-Net+Attention Gate; (b) BiSeNet; (c) DUNet; (d) DeepLab; (e) FCN-8s; (f) GCN; (g) ICNet; (h) LEDNet; (i) OCNet; (j) PSPNet; (k) R2U-Net+Attention Gate; (l) R2U-Net; (m) U-Net; (n) PricoMS;
 </p>
 
+### Ablation study
 
+<div align=center>
+  <img src="https://github.com/IMOP-lab/PricoMS-Pytorch/blob/main/figures/ablation.png">
+</div>
+<p align=center>
+  Figure 9: Ablation experiments on key components of PricoMS on the IVUS dataset.
+</p>
 
 
 
