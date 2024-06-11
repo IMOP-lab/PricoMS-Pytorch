@@ -61,8 +61,7 @@ distributed training methodologies for both training and evaluation phases. The 
 
 We provide GitHub links pointing to the PyTorch implementation code for all networks compared in this experiment here, so you can easily reproduce all these projects.
 
-[U-Net+AttGate](https://github.com/tjboise/APCGAN-AttuNet); [Bisenet](https://github.com/ooooverflow/BiSeNet); [Dunet](https://github.com/RanSuLab/DUNet-retinal-vessel-detection); [DeepLab](https://github.com/fregu856/deeplabv3); [FCN](https://github.com/shelhamer/fcn.berkeleyvision.org);[GCN](https://github.com/sungyongs/graph-based-nn); [ICNet](https://github.com/hszhao/ICNet); [LEDNe](https://github.com/xiaoyufenfei/LEDNet); [SegResNet](https://github.com/Project-MONAI/MONAI/blob/dev/monai/networks/nets/segresnet.py); [HighRes3DNet](https://github.com/fepegar/highresnet);
-[TransBTS](https://github.com/Rubics-Xuan/TransBTS); [nnFormer](https://github.com/282857341/nnFormer); [SETR](https://github.com/fudan-zvg/SETR)
+[U-Net+AttGate](https://github.com/tjboise/APCGAN-AttuNet); [Bisenet](https://github.com/ooooverflow/BiSeNet); [Dunet](https://github.com/RanSuLab/DUNet-retinal-vessel-detection); [DeepLab](https://github.com/fregu856/deeplabv3); [FCN](https://github.com/shelhamer/fcn.berkeleyvision.org);[GCN](https://github.com/sungyongs/graph-based-nn); [ICNet](https://github.com/hszhao/ICNet); [LEDNe](https://github.com/xiaoyufenfei/LEDNet); [OCNet](https://github.com/thuyngch/Fast-LightWeight-SemSeg-Papers); [PSPNet](https://github.com/hszhao/PSPNet);[R2U-Net+AttGate](https://github.com/lixiaolei1982/Keras-Implementation-of-U-Net-R2U-Net-Attention-U-Net-Attention-R2U-Net.-); [R2U-Net](https://github.com/LeeJae-hoon/Dense-Recurrent-Residual-U-Net-with-for-Video-Quality-Mapping); [U-Net](https://github.com/milesial/Pytorch-UNet)
 
 
 
