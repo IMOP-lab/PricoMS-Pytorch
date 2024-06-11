@@ -7,6 +7,6 @@ Xingru Huang, Huawei Wang, Shuaibin Chen, Yihao Guo, Francesca Pugliese, Anantha
 Hangzhou Dianzi University IMOP-lab
 
 <div align=center>
-  <img src="https://github.com/IMOP-lab/PricoMS-Pytorch/blob/main/figures/mian.png">
+  <img src="https://github.com/IMOP-lab/PricoMS-Pytorch/blob/main/figures/main.png"> 
 </div>
 <p align=center>
