@@ -56,6 +56,15 @@ We propose the AMF-CSE Module to tackle decoders’ inability to accurately reco
 To ensure an equitable comparison, all experimental procedures were conducted within a consistent hardware and software milieu: an assembly of four servers, each equipped with dual NVIDIA GeForce RTX 3080 10GB graphics cards, and augmented by 128GB of system memory. Our project is anchored in Python 3.9.0, harnesses PyTorch 1.13.1 for deep learning operations, and operates atop CUDA 11.7.64, employing
 distributed training methodologies for both training and evaluation phases. The optimizer of choice was AdamW, with a learning rate meticulously set to 0.0001. Model weights were initially set to random values to ensure a fair start, and the training regimen was designed to span 100 epochs.
 
+## Experiment
+### Baselines
+
+We provide GitHub links pointing to the PyTorch implementation code for all networks compared in this experiment here, so you can easily reproduce all these projects.
+
+[U-Net+AttGate](https://github.com/tjboise/APCGAN-AttuNet); [Bisenet](https://github.com/ooooverflow/BiSeNet); [Dunet](https://github.com/RanSuLab/DUNet-retinal-vessel-detection); [DeepLab](https://github.com/fregu856/deeplabv3); [FCN](https://github.com/shelhamer/fcn.berkeleyvision.org);[GCN](https://github.com/sungyongs/graph-based-nn); [ICNet](https://github.com/hszhao/ICNet); [LEDNe](https://github.com/xiaoyufenfei/LEDNet); [SegResNet](https://github.com/Project-MONAI/MONAI/blob/dev/monai/networks/nets/segresnet.py); [HighRes3DNet](https://github.com/fepegar/highresnet);
+[TransBTS](https://github.com/Rubics-Xuan/TransBTS); [nnFormer](https://github.com/282857341/nnFormer); [SETR](https://github.com/fudan-zvg/SETR)
+
+
 
 
 
