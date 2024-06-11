@@ -28,3 +28,51 @@ We will first introduce our method and principles, then introduce the experiment
 </p>
 
 We propose the PCP to address label scarcity, consisting of the prior encoder and calibration module . This approach integrates spatial feature extraction with a novel temporal coherence strategy, enabling precise input of rich spatial and temporally coordinated data into the segmentation framework.
+
+### HCS Module
+
+<div align=center>
+  <img src="https://github.com/IMOP-lab/PricoMS-Pytorch/blob/main/figures/HCS.png">
+</div>
+<p align=center>
+  Figure 3: Structure of the HCS module.
+</p>
+
+We propose the HCS Module , which enhances feature information by refining latent subspace features and focusing attention to attenuate less beneficial elements
+
+### CSE-AMF Module
+
+<div align=center>
+  <img src="https://github.com/IMOP-lab/PricoMS-Pytorch/blob/main/figures/AMF.png">
+</div>
+<p align=center>
+  Figure 3: Structure of the AMF module.
+</p>
+
+We propose the AMF-CSE Module to tackle decoders’ inability to accurately recover detailed information and the issue of using features in isolation. This module includes two units: adaptive morphological fusion for global multiscale feature fusion, and contextual space encoding for organizing image context sequentially
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
