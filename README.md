@@ -26,3 +26,5 @@ We will first introduce our method and principles, then introduce the experiment
 <p align=center>
   Figure 2: Structure of the PCP module.
 </p>
+
+We propose the PCP to address label scarcity, consisting of the prior encoder and calibration module . This approach integrates spatial feature extraction with a novel temporal coherence strategy, enabling precise input of rich spatial and temporally coordinated data into the segmentation framework.
