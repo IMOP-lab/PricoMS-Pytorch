@@ -51,6 +51,11 @@ We propose the HCS Module , which enhances feature information by refining laten
 
 We propose the AMF-CSE Module to tackle decoders’ inability to accurately recover detailed information and the issue of using features in isolation. This module includes two units: adaptive morphological fusion for global multiscale feature fusion, and contextual space encoding for organizing image context sequentially
 
+## Installation
+
+To ensure an equitable comparison, all experimental procedures were conducted within a consistent hardware and software milieu: an assembly of four servers, each equipped with dual NVIDIA GeForce RTX 3080 10GB graphics cards, and augmented by 128GB of system memory. Our project is anchored in Python 3.9.0, harnesses PyTorch 1.13.1 for deep learning operations, and operates atop CUDA 11.7.64, employing
+distributed training methodologies for both training and evaluation phases. The optimizer of choice was AdamW, with a learning rate meticulously set to 0.0001. Model weights were initially set to random values to ensure a fair start, and the training regimen was designed to span 100 epochs.
+
 
 
 
