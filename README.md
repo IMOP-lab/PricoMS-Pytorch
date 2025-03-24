@@ -89,8 +89,8 @@ We provide GitHub links pointing to the PyTorch implementation code for all netw
 </p>
 
 ### Checkpoint
-
-[PricoMS](https://pan.baidu.com/s/1RRrl1Yxu_meTA2JmVGrcpQ?pwd=1234) 提取码: 1234
+Visitors can get the checkpoint of the network through the following path
+[PricoMS](https://pan.baidu.com/s/1RRrl1Yxu_meTA2JmVGrcpQ?pwd=1234) access code: 1234
 
 
 
