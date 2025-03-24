@@ -88,9 +88,9 @@ We provide GitHub links pointing to the PyTorch implementation code for all netw
   Figure 7: Ablation experiments on key components of PricoMS on the IVUS dataset.
 </p>
 
+### Checkpoint
 
-
-
+[PricoMS](https://pan.baidu.com/s/1RRrl1Yxu_meTA2JmVGrcpQ?pwd=1234) 提取码: 1234
 
 
 
