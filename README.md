@@ -73,7 +73,7 @@ We provide GitHub links pointing to the PyTorch implementation code for all netw
 </p>
 
 <div align=center>
-  <img src="https://github.com/IMOP-lab/PricoMS-Pytorch/blob/main/figures/Diagram%202.png">
+  <img src="https://github.com/IMOP-lab/PricoMS-Pytorch/blob/main/figures/Diagram 2.png">
 </div>
 <p align=center>
   Figure 6: The visual results of our method compared to the existing 13 segmentation methods on the IVUS dataset. (a) U-Net+Attention Gate; (b) Mask2Former; (c) DUNet; (d) DeepLab3+; (e) FCN-8s; (f) GCN; (g) Swin-Unet; (h) MedT; (i) OCNet; (j) PSPNet; (k) R2U-Net+Attention Gate; (l) R2U-Net; (m) MaxViT; (n) PricoMS;
